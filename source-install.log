@@ -1,0 +1,42 @@
+Debug: "Launching Fontea installer 1.0.0" 
+Debug: "Detecting installations on Mac 12" 
+Debug: "Processing installation dir: Adobe Photoshop CS6.app" 
+Debug: "Detecting extensions path for PS v.60.0" 
+Debug: 60 "/Users/Hallenberg/Library/Application Support/Adobe/CS6ServiceManager/extensions" 
+Debug: "Detecting installations in Applications/Adobe" 
+Warning: "loadInstalledFilesList: unable to open '/Users/Hallenberg/Library/Application Support/com.madebysource.fontea/files.txt'" 
+Debug: "loadInstalledFiles: Unable to cd into 'fontea'" 
+Debug: "Starting installation of /Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app" 
+Debug: "Installing into /Users/Hallenberg/Library/Application Support/Adobe/CS6ServiceManager/extensions" 
+Debug: "Installing generator into /Applications/Adobe Photoshop CS6/Plug-ins" 
+Debug: "osascript -e "do shell script \"chmod 777 \\\"/Applications/Adobe Photoshop CS6/Plug-ins\\\";chmod 777 \\\"/Applications/Adobe Photoshop CS6/Plug-ins/Generator\\\";chmod -R 777 \\\"/Applications/Adobe Photoshop CS6/Plug-ins/Generator/com.madebysource.fontea\\\";chmod 777 \\\"/Applications/Adobe Photoshop CS6/Plug-ins/Panels\\\";chmod -R 777 \\\"/Applications/Adobe Photoshop CS6/Plug-ins/Panels/com.madebysource.fontea\\\";chmod 777 \\\"/Users/Hallenberg/Library/Application Support/Adobe/CEP/extensions\\\";chmod -R 777 \\\"/Users/Hallenberg/Library/Application Support/Adobe/CEP/extensions/com.madebysource.fontea\\\";chmod 777 \\\"/Users/Hallenberg/Library/Application Support/Adobe/CEPServiceManager4/extensions\\\";chmod -R 777 \\\"/Users/Hallenberg/Library/Application Support/Adobe/CEPServiceManager4/extensions/com.madebysource.fontea\\\";chmod 777 \\\"/Users/Hallenberg/Library/Application Support/Adobe/CS6ServiceManager/extensions\\\";chmod -R 777 \\\"/Users/Hallenberg/Library/Application Support/Adobe/CS6ServiceManager/extensions/com.madebysource.fontea\\\";chmod 777 \\\"/Users/Hallenberg/Library/Application Support/Adobe/CS5.5ServiceManager/extensions\\\";chmod -R 777 \\\"/Users/Hallenberg/Library/Application Support/Adobe/CS5.5ServiceManager/extensions/com.madebysource.fontea\\\";chmod 777 \\\"/Users/Hallenberg/Library/Application Support/Adobe/CS5ServiceManager/extensions\\\";chmod -R 777 \\\"/Users/Hallenberg/Library/Application Support/Adobe/CS5ServiceManager/extensions/com.madebysource.fontea\\\";\" with administrator privileges""  returned  256 
+Debug: "Installing into /Applications/Adobe Photoshop CS6/Plug-ins/Generator" 
+Debug: Installation completed 
+Warning: QThread: Destroyed while thread is still running
+Warning: QThread: Destroyed while thread is still running
+Debug: "Launching Fontea installer 1.0.0" 
+Debug: "Detecting installations on Mac 12" 
+Debug: "Processing installation dir: Adobe Photoshop CS6.app" 
+Debug: "Detecting extensions path for PS v.60.0" 
+Debug: 60 "/Users/Hallenberg/Library/Application Support/Adobe/CS6ServiceManager/extensions" 
+Debug: "Detecting installations in Applications/Adobe" 
+Debug: "Trying manual installation" 
+Debug: "Processing installation dir: Adobe Photoshop CS6.app" 
+Debug: "Detecting extensions path for PS v.60.0" 
+Debug: 60 "/Users/Hallenberg/Library/Application Support/Adobe/CS6ServiceManager/extensions" 
+Debug: "loadInstalledFilesList of '/Users/Hallenberg/Library/Application Support/com.madebysource.fontea/files.txt' succeeded (total files: 47)" 
+Debug: "loadInstalledFiles: Unable to cd into 'fontea'" 
+Debug: "uninstallInstalledFiles: removed /Users/Hallenberg/Library/Application Support/com.madebysource.fontea/files.txt" 
+Debug: "Starting installation of /Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app" 
+Debug: "Installing into /Users/Hallenberg/Library/Application Support/Adobe/CS6ServiceManager/extensions" 
+Debug: "Cleaned-up /Users/Hallenberg/Library/Application Support/Adobe/CS6ServiceManager/extensions/com.madebysource.fontea" 
+Debug: "Installing generator into /Applications/Adobe Photoshop CS6/Plug-ins" 
+Debug: "Installing into /Applications/Adobe Photoshop CS6/Plug-ins/Generator" 
+Debug: "Cleaned-up /Applications/Adobe Photoshop CS6/Plug-ins/Generator/com.madebysource.fontea" 
+Debug: "Starting installation of /Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app" 
+Debug: "Installing into /Users/Hallenberg/Library/Application Support/Adobe/CS6ServiceManager/extensions" 
+Debug: "Installing generator into /Applications/Adobe Photoshop CS6/Plug-ins" 
+Debug: "Installing into /Applications/Adobe Photoshop CS6/Plug-ins/Generator" 
+Debug: Update completed 
+Warning: QThread: Destroyed while thread is still running
+Warning: QThread: Destroyed while thread is still running
